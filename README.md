@@ -7,3 +7,5 @@ This is a project developed during my course of study, in which I was trying to 
 ![banner project](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555444266/shape/mentalfloss/doom-prim.png?itok=GxPATqpu)
 
 This is also possible with the unity engine Transform.LookAt function. But I was trying to emulate his behavior by calculating the angle between the enemy and the camera using the Math.Atan2 function.
+
+Those image are not taken from my project, they are taken from the internet so do not expect anything special, just some math and code.
